@@ -16,7 +16,7 @@ Users can manipulate model parameters in real-time to observe how feature varian
 * **Real-Time Model Evaluation:** Instantly updates Inertia and Silhouette Scores as parameters change.
 * **PCA Visualization:** Reduces the 5-dimensional feature space into a 2D interactive scatter plot, rendering clear visual cluster assignments.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 * **Frontend & Interactivity:** Dash, Plotly Express
 * **Data Processing & ML Engine:** Python, Pandas, Scikit-Learn, SciPy
 * **Production Server:** Gunicorn
